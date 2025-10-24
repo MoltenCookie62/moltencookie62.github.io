@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "message": "GitHub Pages JSON test file is working!",
+  "data": {
+    "id": 1,
+    "name": "Test User",
+    "role": "Developer"
+  }
+}
