@@ -1,0 +1,303 @@
+[
+    {
+        "name":"Space Race",
+        "date":"(1955-1975)",
+        "explanation":"The United States and Soviet Russia extended their arms race to advancements in Space Exploration.",
+        "significance":"The United States kept moving the goal post back until they literally reach the moon",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg"
+    },
+    {
+        "name":"Pentagon Papers",
+        "date":"(1971)",
+        "explanation":"Classified papers about the vietnam war were leaked to the general public.",
+        "significance":"Revealed a bunch of deceit and horrors of the Vietnam War.",
+        "imageLink":"https://en.wikipedia.org/wiki/File:TIME_Magazine_-_Pentagon_Papers_cover.jpg"
+    },
+    {
+        "name":"Kent State Shootings",
+        "date":"(1970)",
+        "explanation":"Also known as the Kent State Massacre, Ohio state guard killed 9 unarmed collage students.",
+        "significance":"A bunch of peaceful protestors were shot protesting the Vietnam War.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/en/6/65/Kent_State_massacre.jpg"
+    },
+    {
+        "name":"My Lai Massacre",
+        "date":"(1968)",
+        "explanation":"347 to 504 unarmed civilians were killed by US soldiers",
+        "significance":"U.S. Soldiers massacred a bunch of Vietnamese civilians.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/7/77/My_Lai_massacre.jpg"
+    },
+    {
+        "name":"Tonkin Gulf Crisis",
+        "date":"(1964)",
+        "explanation":"Confrontation between the US and Vietnamese soldiers in the Tonkin Gulf",
+        "significance":"Caused the U.S. to engage more directly in the Vietnam War.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tonkingunboats.jpg/300px-Tonkingunboats.jpg"
+    },
+    {
+        "name":"Iran Hostage Crisis",
+        "date":"(1979-1981)",
+        "explanation":"American diplomats were held hostage in Iran, the U.S. has a standoff with Iran.",
+        "significance":"Tanked the diplomatic relations between the US and Iran",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/800px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg"
+    },
+    {
+        "name":"Berlin Airlift",
+        "date":"(1948-1949)",
+        "explanation":"Soviet Russia blockaded West Berlin, so the U.S. airlifted the supplies in.",
+        "significance":"Proved the soviets incompetent",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/C-54landingattemplehof.jpg/630px-C-54landingattemplehof.jpg"
+    },
+    {
+        "name":"Camp David Accords",
+        "date":"(1978)",
+        "explanation":"12 days of secret Peace talks between Israel and Egypt.",
+        "significance":"led directly to the 1979 Egypt-Israel peace treaty.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-1024px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg"
+    },
+    {
+        "name":"Israel's Creation",
+        "date":"(1948)",
+        "explanation":"Israel was created to give the Jewish people their homeland back",
+        "significance":"created at the end of ww2, sort of didn't work that well, didn't even have that much support.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1024px-Flag_of_Israel.svg.png"
+    },
+    {
+        "name":"Bay of Pigs Invasion",
+        "date":"(1961)",
+        "explanation":"The US tried to invade the bay of pigs but was not given enough troops and supplies",
+        "significance":"U.S. tried to attack Cuba and failed, raised tensions significantly.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg/300px-Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg"
+    },
+    {
+        "name":"Yalta Conference",
+        "date":"(1945)",
+        "explanation":"Post-ww2 discussions of future.",
+        "significance":"Meant to focus mainly on the rebuilding of war-torn countries in Europe.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg/1024px-Yalta_Conference_%28Churchill%2C_Roosevelt%2C_Stalin%29_%28B%26W%29.jpg"
+    },
+    {
+        "name":"Iran-Contra Affair",
+        "date":"(1985-1987)",
+        "explanation":"President secretly sold weapons to Iran without permission.",
+        "significance":"Makes the president look bad.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra.jpg/1024px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra.jpg"
+    },
+    {
+        "name":"Paris Peace Accord",
+        "date":"(1973)",
+        "explanation":"Armistice in Vietnam war, American soldiers withdrawn.",
+        "significance":"The US finally gave up on the war they were losing",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_Peace_Treaty_1973.jpg/800px-Vietnam_Peace_Treaty_1973.jpg"
+    },
+    {
+        "name":"War Powers Act",
+        "date":"(1941)",
+        "explanation":"Signed by President Franklin D. Roosevelt that gave the President a large amount of authority over the US involvement in WWII.",
+        "significance":"Increased executive power during WW2 just after Pearl Harbor.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/800px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+    },
+    {
+        "name":"Korean War",
+        "date":"(1950-1953)",
+        "explanation":"Proxy war to prevent the spread of communism in Korea.",
+        "significance":"The reason that to this day North and South Korea are separate countries.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_War_Montage_2.png/800px-Korean_War_Montage_2.png"
+    },
+    {
+        "name":"Vietnam War",
+        "date":"(1955-1975)",
+        "explanation":"Proxy war to prevent the spread of communism in Vietnam.",
+        "significance":"absolute disaster for everyone involved and an enormous act of deceit and a breach of trust.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/A-4C_Skyhawks_of_VA-146_fly_past_USS_Kearsarge_%28CVS-33%29_in_the_South_China_Sea_on_12_August_1964_%28USN_1107965%29.jpg/1024px-A-4C_Skyhawks_of_VA-146_fly_past_USS_Kearsarge_%28CVS-33%29_in_the_South_China_Sea_on_12_August_1964_%28USN_1107965%29.jpg"
+    },
+    {
+        "name":"Perestroika",
+        "date":"(1980s)",
+        "explanation":"Political movement that sought political reform within the Soviet Union.",
+        "significance":"lead to the end of the Soviet Union.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Soviet_Union_1988_CPA_5942_stamp_%28Perestroika_%28reformation%29._Worker._Industries_and_agriculture%29.jpg"
+    },
+    {
+        "name":"JFK Assassination",
+        "date":"(1963)",
+        "explanation":"JFK was shot by Lee Harvey Oswald while riding in a car. His brother Robert Kennedy was shot some couple years after as well.",
+        "significance":"The assassination was the first of four major assassinations during the 1960s in the United States",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JFK_limousine.png/1024px-JFK_limousine.png"
+    },
+    {
+        "name":"Cuban Missile Crisis",
+        "date":"(1962)",
+        "explanation":"The US wanted Missiles out of Cuba and the Soviet Union wanted them out of Turkey.",
+        "significance":"A time the world was almost destroyed because of a standoff over nuclear missiles placed in Cuba.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg"
+    },
+    {
+        "name":"Formation of NATO",
+        "date":"(1949)",
+        "explanation":"Established following WWII as a response to the cold war.",
+        "significance":"12 countries allied in one organization to protect against communism.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_NATO.svg/1024px-Flag_of_NATO.svg.png"
+    },
+    {
+        "name":"Formation of the Warsaw Pact",
+        "date":"(1955)",
+        "explanation":"The Warsaw pact was made as a response to NATO.",
+        "significance":"Designed to have a very similar organization among communist, soviet influenced countries.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Warsaw_Pact_Logo.svg/800px-Warsaw_Pact_Logo.svg.png"
+    },
+    {
+        "name":"Invasion of Cambodia",
+        "date":"(1970)",
+        "explanation":"A series of military operations in east cambodia",
+        "significance":"U.S. and South Vietnam invaded neutral Cambodia to find strategic positions to get at north Vietnam.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Map_Cambodian_Incursion_May_70_from_USMA.jpg/1280px-Map_Cambodian_Incursion_May_70_from_USMA.jpg"
+    },
+    {
+        "name":"Division of Germany",
+        "date":"(1945)",
+        "explanation":"Germany was split between the soviet controlled East and the French, English and American west.",
+        "significance":"Berlin experienced much the same, even though it was in Russian territory.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Map-Germany-1945.svg/1024px-Map-Germany-1945.svg.png"
+    },
+    {
+        "name":"Montgomery Bus Boycott",
+        "date":"(1955-1956)",
+        "explanation":"The day Rosa Parks was arrested, a bunch of people boycotted buses in Montgomery in protest of racial segregation.",
+        "significance":"Produced a lot of media attention.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/en/8/80/Rosaparks_bus.jpg"
+    },
+    {
+        "name":"Voting Rights Act of 1965",
+        "date":"(1965)",
+        "explanation":"Signed into law by Lyndon B. Johnson. Stopped voting discrimination based on race.",
+        "significance":"Despite already being illegal, it was now extra illegal",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/800px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+    },
+    {
+        "name":"Selma to Montgomery Marches",
+        "date":"(1965)",
+        "explanation":"Black activists walked a very long distance through the south in a large group to protest lack of voting rights.",
+        "significance":"They were attacked by police along the way.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Bloody_Sunday-Alabama_police_attack.jpeg"
+    },
+    {
+        "name":"Assassination of Martin Luther King Jr.",
+        "date":"(1968)",
+        "explanation":"MLK was assassinated at a hotel by James Earl Ray.",
+        "significance":"A civil rights leader was murdered for believing in civil rights",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lorraine_Motel_04_15_Mar_2012.jpg/220px-Lorraine_Motel_04_15_Mar_2012.jpg"
+    },
+    {
+        "name":"Emmett Till Murder",
+        "date":"(1955)",
+        "explanation":"Emmett Till was accused of offending a white women and lynched. ",
+        "significance":"His attackers were acquitted.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/en/a/a9/Emmett_Till.jpg"
+    },
+    {
+        "name":"Watts Riots",
+        "date":"(1965)",
+        "explanation":"Riot due to a black person resisting arrest, getting into a brawl, rumors spread that resulted in a riot.",
+        "significance":"Riots were in response to police brutality.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wattsriots-burningbuildings-loc.jpg/300px-Wattsriots-burningbuildings-loc.jpg"
+    },
+    {
+        "name":"Little Rock Nine",
+        "date":"(1957)",
+        "explanation":"Nine black students enrolled in a white only school.",
+        "significance":"landmark show of coming integration.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/en/f/ff/Little_Rock_Desegregation_1957.jpg"
+    },
+    {
+        "name":"Fair Housing Act of 1968",
+        "date":"(1968)",
+        "explanation":"Prohibited discrimination in the housing market.",
+        "significance":"Despite there already being legislation to do that.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/800px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+    },
+    {
+        "name":"Freedom Rides",
+        "date":"(1961)",
+        "explanation":"Large-scale bus trip protest of racial discrimination in bus terminals.",
+        "significance":"They were attacked by mobs of racist people.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exhibit_on_Freedom_Riders_-_Center_for_Civil_and_Human_Rights_-_Atlanta_-_Georgia_-_USA_%2833468216774%29.jpg/1024px-Exhibit_on_Freedom_Riders_-_Center_for_Civil_and_Human_Rights_-_Atlanta_-_Georgia_-_USA_%2833468216774%29.jpg"
+    },
+    {
+        "name":"Bakke v. University of California",
+        "date":"(1977-1978)",
+        "explanation":"A white man was rejected in favor of minorities solely due to a racial quota and protested it.",
+        "significance":"It highlighted the practice's potential flaws.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/100px-Seal_of_the_United_States_Supreme_Court.svg.png"
+    },
+    {
+        "name":"Memphis Sanitation Strike",
+        "date":"(1968)",
+        "explanation":"Sanitation workers in Memphis protested poor treatment due to race and the death of 2 blacks.",
+        "significance":"It did after much violence result in higher wages for the workers",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/I_Am_a_Man_-_Diorama_of_Memphis_Sanitation_Workers_Strike_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg/800px-I_Am_a_Man_-_Diorama_of_Memphis_Sanitation_Workers_Strike_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg"
+    },
+    {
+        "name":"Sit-ins",
+        "date":"(1960s-1970s)",
+        "explanation":"Occupying public spaces to protest racial segregation there, such as sitting in every seat in a restaurant and not buying anything.",
+        "significance":"A form of non-violent protest used during the civil rights movement.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Benjamin_Cowins_during_a_sit-in_at_McCrory%27s_lunch_counter_in_Tallahassee.jpg"
+    },
+    {
+        "name":"Birmingham campaigns",
+        "date":"(1963)",
+        "explanation":"An effort to change discriminatory rules in Birmingham, Alabama.",
+        "significance":"Used non-violent protests and paved the way for the civil rights acts.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/en/9/9f/Birmingham_campaign_water_hoses.jpg"
+    },
+    {
+        "name":"Mississippi Freedom Summer",
+        "date":"(1964)",
+        "explanation":"An effort to register massive numbers of black voters.",
+        "significance":"It helped break down the decades of isolation and repression that had supported the Jim Crow system.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1000_students_wanted_for_the_SNCC_Mississippi_Freedom_Summer_Project_%2826276560142%29.jpg/300px-1000_students_wanted_for_the_SNCC_Mississippi_Freedom_Summer_Project_%2826276560142%29.jpg"
+    },
+    {
+        "name":"March on Washington",
+        "date":"(1963)",
+        "explanation":"Large group of protestors did a protest in D.C.",
+        "significance":"Site of the \"I Have a Dream\" speech.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/IhaveadreamMarines.jpg/300px-IhaveadreamMarines.jpg"
+    },
+    {
+        "name":"Affirmative Action",
+        "date":"(1970s)",
+        "explanation":"Affirmative action was an effort to forcefully insert minorities into positions such as jobs or slots for students at colleges.",
+        "significance":"This was the result of just waiting for thing to get better not really working out.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/800px-Seal_of_the_United_States_Supreme_Court.svg.png"
+    },
+    {
+        "name":"Miranda V. Arizona",
+        "date":"(1966)",
+        "explanation":"The case that started the Miranda rights. a man was not told he had the right to remain silent and appealed based on that.",
+        "significance":"A guilty man got away free because he was not properly informed.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/800px-Seal_of_the_United_States_Supreme_Court.svg.png"
+    },
+    {
+        "name":"Civil rights act of 1964",
+        "date":"(1964)",
+        "explanation":"It outlaws discrimination based on race, color, religion, sex, and national origin.",
+        "significance":"Considered to be one of the most important landmark civil rights achievements in american history",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/800px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+    },
+    {
+        "name":"Civil rights act of 1957",
+        "date":"(1957)",
+        "explanation":"It was signed into law by President Eisenhower on September 9, 1957.",
+        "significance":"Was trimmed town several times before being passed.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/800px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+    },
+    {
+        "name":"Formation of the Black Panther Party",
+        "date":"(1966)",
+        "explanation":"founded by college students Bobby Seale and Huey P. Newton in October 1966",
+        "significance":"Opposed the excessive force of the Oakland Police Department.",
+        "imageLink":"https://upload.wikimedia.org/wikipedia/en/4/4f/Bpp_logo.PNG"
+    }
+]
